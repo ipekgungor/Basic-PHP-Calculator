@@ -20,4 +20,3 @@ This is a basic calculator with PHP.
 - **Make sure XAMPP is running before accessing the application.**
 - **The folder structure should be as follows: `xampp/htdocs/php-calculator/`.**
 - **Open your web browser and navigate to `http://localhost/php-calculator/calculator.php`.**
-
